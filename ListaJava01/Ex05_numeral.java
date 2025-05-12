@@ -1,6 +1,6 @@
 package ListaJava01;
 
-public class Ex5_numeral {
+public class Ex05_numeral {
     public static void main(String[] args) {
         Util.imprimir("Digite um número: ");
         int numeral = Util.lerValorInteiro();

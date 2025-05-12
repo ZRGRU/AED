@@ -1,6 +1,6 @@
 package ListaJava01;
 
-public class Ex8_DiaSemana {
+public class Ex08_DiaSemana {
     public static void main(String[] args) {
         
         Util.imprimir("Digite um número correspondente ao dia da semana (1-7): ");

@@ -1,6 +1,6 @@
 package ListaJava01;
 
-public class Ex2_CotacaoDollar {
+public class Ex02_CotacaoDollar {
 
     public static void main(String[] args) {
         double cotacaoDollar = 0;

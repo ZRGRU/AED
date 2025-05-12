@@ -1,6 +1,6 @@
 package ListaJava01;
 
-public class Ex1_AlturaPredio {
+public class Ex01_AlturaPredio {
    
     public static void main(String[] args) {
         double alturaPredio;

@@ -1,6 +1,6 @@
 package ListaJava01;
 
-public class Ex3_ClassificacaoTriangulo {
+public class Ex03_ClassificacaoTriangulo {
     public static void main(String[] args) {
         double ladoA = 0;
         double ladoB = 0;

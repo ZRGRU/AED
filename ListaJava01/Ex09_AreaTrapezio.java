@@ -3,7 +3,7 @@ package ListaJava01;
 // import java.util.Locale;
 import java.util.Scanner;
 
-public class Ex9_AreaTrapezio {
+public class Ex09_AreaTrapezio {
     public static Scanner tecladoScanner = new Scanner(System.in); // .useLocale(Locale.US);
 
     public static void imprimir(String texto) {

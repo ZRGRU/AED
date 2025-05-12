@@ -1,6 +1,6 @@
 package ListaJava01;
 
-public class Ex7_NumeroMaior {
+public class Ex07_NumeroMaior {
     public static void main(String[] args) {
         Util.imprimir("Digite o primeiro número: ");
         int numero1 = Util.lerValorInteiro();

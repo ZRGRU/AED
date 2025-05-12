@@ -1,6 +1,6 @@
 package ListaJava01;
 
-public class Ex6_ParImpar {
+public class Ex06_ParImpar {
     public static void main(String[] args) {
         Util.imprimir("Digite um número inteiro: ");
         int numeral = Util.lerValorInteiro();

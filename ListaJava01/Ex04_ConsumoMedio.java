@@ -1,6 +1,6 @@
 package ListaJava01;
 
-public class Ex4_ConsumoMedio {
+public class Ex04_ConsumoMedio {
     public static void main(String[] args) {
         double dististanciaPercorrida = 0;
         double combustivelGasto = 0;
