@@ -6,7 +6,7 @@ public class Ex01_ImprimirSequencia {
         int fim = 200;
         int contador = inicio;
 
-        while (contador <= fim) {
+        while (contador <= fim) { // for (contador = inicio; contador < fim; contador++) {\n}
             Util.imprimir("Contador: " + contador);
             contador++;
         }

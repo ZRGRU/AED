@@ -41,6 +41,10 @@ public class Util {
         return caracter;
     }
 
+    public static void imprimirInteiro(int inteiro) {
+        System.out.println(inteiro);
+    }
+    
     public static DecimalFormat df = new DecimalFormat("#0.00");
 
 }
