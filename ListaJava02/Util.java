@@ -45,6 +45,16 @@ public class Util {
         System.out.println(inteiro);
     }
     
+    public static void processarPares(int inicio, int fim) {
+        int i = 0;
+
+        for (i = inicio; i < fim; i++) {
+            if (i % 2 == 0) {
+                Util.imprimirInteiro(i);
+            }
+        }
+    }
+    
     public static DecimalFormat df = new DecimalFormat("#0.00");
 
 }
