@@ -44,6 +44,10 @@ public class Util {
     public static void imprimirInteiro(int inteiro) {
         System.out.println(inteiro);
     }
+
+    public static void imprimirInteiro(long inteiro) {
+        System.out.println(inteiro);
+    }
     
     public static void processarPares(int inicio, int fim) {
         int i = 0;
@@ -54,7 +58,7 @@ public class Util {
             }
         }
     }
-    
+
     public static DecimalFormat df = new DecimalFormat("#0.00");
 
 }
